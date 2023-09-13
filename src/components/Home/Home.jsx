@@ -22,7 +22,7 @@ const Home = () => {
             <div className="banner-run mt-8 flex flex-row">
               <a
                 href={
-                  "https://github.com/adarsh-s-02/face-emotion-recogn"
+                  "https://github.com/SPhaniAjit/Face_emotion_recognition"
                 }
                 target={"_blank"}
                 rel="noreferrer"
